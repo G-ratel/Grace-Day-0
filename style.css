@@ -1,0 +1,23 @@
+body{
+  background-color: rgb(48, 54, 59);
+	font-family: Graphik, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+  }
+.container {
+	background-color: #FFFFFF;
+	width: 910px;
+	height: 2000px;
+	margin-left: 14%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+	padding: 20px;
+	border-radius: 5px;
+}
+.justify-text {
+  text-align: justify;
+  font-size: 24px;
+}
+.text-center {
+text-align: center;
+}
